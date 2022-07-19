@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x 4 steven steven 4096 juil. 12 09:06 .
+drwxrwxr-x 3 steven steven 4096 juil. 12 09:04 ..
+drwxrwxr-x 4 steven steven 4096 juin  27  2019 2019
+-rw-rw-r-- 1 steven steven   50 juin  27  2019 fichier.txt
+-rw-rw-r-- 1 steven steven 7578 mai    9  2019 image.png
+-rw-rw-r-- 1 steven steven    0 juil. 12 09:06 liste.txt
+-rw-rw-r-- 1 steven steven 5907 mai   16  2019 lorem.txt
+drwxrwxr-x 2 steven steven 4096 juin  28  2019 test
+-rw-rw-r-- 1 steven steven    0 juin  28  2019 test2
